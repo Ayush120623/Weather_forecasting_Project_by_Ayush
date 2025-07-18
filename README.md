@@ -101,15 +101,6 @@ To validate that the model fits well:
 
 ---
 
-## 📁 **Folder Structure**
-
-├── humidity_forecasting.ipynb # Main notebook
-├── humidity_data.csv # Dataset
-├── forecast_plot.png # Final visualization
-├── README.md # This file
-
-
----
 
 ## 💡 **What I Learned**
 
